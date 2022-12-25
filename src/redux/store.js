@@ -21,4 +21,4 @@ export default store;
 
 
 
-export const server = "https://abhiburgerapp.herokuapp.com/api/v1";
+export const server = "https://burgerapp-ec97.vercel.app/api/v1";
